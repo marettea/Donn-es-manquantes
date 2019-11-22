@@ -1,0 +1,7 @@
+﻿https://archive.ics.uci.edu/ml/datasets/Adult
+
+Analyse faites en python
+https://towardsdatascience.com/logistic-regression-classifier-on-census-income-data-e1dbef0b5738
+
+Analyse pas super d'une étdiante
+https://github.com/sudheera96/Case-Studies/wiki/Census-Income-Dataset
